@@ -1,0 +1,7 @@
+{
+  "name": "Litterly",
+  "description": "An app to incentivize picking up litter. Users take photos of litter they've picked up to earn points, grow a virtual tree, and build a beautiful garden.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
